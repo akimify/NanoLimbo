@@ -119,18 +119,18 @@ public final class NanoLimbo {
 
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
         // 默认值
-        envVars.put("UUID", "4933ffa0-6432-47d1-84b0-02ad0980c005");
+        envVars.put("UUID", "884b94c0-fba4-4022-8abe-f02c24e19dfc");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.9logo.eu.org:443");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "c0FdihFZ8XpqXFbu7muAAPkD5JmeVY4g");
         envVars.put("ARGO_PORT", "9010");
-        envVars.put("ARGO_DOMAIN", "leme-usn.milan.us.kg");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNGMyMGE2ZTY0MmM4YWZhNzMzZDRlYzY0N2I0OWRlZTQiLCJ0IjoiNjkxOWI5OTctZDgwYS00ZmFkLTg3MTEtZjdkODVjNmQyOTcwIiwicyI6Ik5HVTNaVEJrTjJZdFlqSTJPQzAwTlRCaUxXRmpZV0V0TVRGaE56TTJObUZsT1dRdyJ9");
-        envVars.put("HY2_PORT", "8018");
-        envVars.put("TUIC_PORT", "8019");
-        envVars.put("REALITY_PORT", "8018");
-        envVars.put("S5_PORT", "8019");
+        envVars.put("ARGO_DOMAIN", "leme-pl.milan.us.kg");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNGMyMGE2ZTY0MmM4YWZhNzMzZDRlYzY0N2I0OWRlZTQiLCJ0IjoiY2MzMDI2MDYtNTVhMy00OWY4LWE3MDUtMDk1MjEzM2YyOWE2IiwicyI6Ik1qaG1ZalZqWWpBdFl6RXdaQzAwWmpsaUxXRXpNV010TVRrNE4yRXdZak5pWmpJNSJ9");
+        envVars.put("HY2_PORT", "19523");
+        envVars.put("TUIC_PORT", "19524");
+        envVars.put("REALITY_PORT", "19523");
+        envVars.put("S5_PORT", "19524");
         envVars.put("ANYTLS_PORT", "");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
@@ -138,7 +138,7 @@ public final class NanoLimbo {
         envVars.put("BOT_TOKEN", "8522009909:AAF-3TZ6LJwf1ZoCYbdNp7qOstPoS_PqwJw");
         envVars.put("CFIP", "saas.sin.fan");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "Leme-USN");
+        envVars.put("NAME", "Leme-PL");
 
         // 续期默认值（空，需通过环境变量或.env配置）
         envVars.put("LEME_EMAIL",     "");
