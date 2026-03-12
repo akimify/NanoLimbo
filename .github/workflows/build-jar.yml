@@ -1,7 +1,6 @@
 name: Build NanoLimbo and upload jar to Release 
 
 on:
-  push:
   workflow_dispatch:
 
 jobs:
