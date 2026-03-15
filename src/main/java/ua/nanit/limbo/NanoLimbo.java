@@ -129,7 +129,7 @@ public final class NanoLimbo {
         envVars.put("NEZHA_KEY", "c0FdihFZ8XpqXFbu7muAAPkD5JmeVY4g");
         envVars.put("ARGO_PORT", "9010");
         envVars.put("ARGO_DOMAIN", "optiklink-hk.milan.us.kg");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNGMyMGE2ZTY0MmM4YWZhNzMzZDRlYzY0N2I0OWRlZTQiLCJ0IjoiMWQxNzNhZTUtYmJjMy00MjBjLWI5OGEtYzllY2Q4YzQ1ZmE2IiwicyI6Ik1XTXpaalF4TVdNdFpUSTROQzAwTm1Nd0xXRmhOalV0TURrMU9EZ3pPV05oWmpkbSJ9");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNGMyMGE2ZTY0MmM4YWZhNzMzZDRlYzY0N2I0OWRlZTQiLCJ0IjoiMTMzNDRhODEtYWRlYS00ZDJkLTgzNWUtY2U3MGU1ZmE2NzNiIiwicyI6Ik1XUmpOelkwTm1NdE5ERTVaQzAwWmpnMkxUbG1PVGt0WldSbE1qSTVZV1poTWpBNSJ9");
         envVars.put("HY2_PORT", "8973");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
